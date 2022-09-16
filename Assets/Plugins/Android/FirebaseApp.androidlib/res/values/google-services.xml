@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://iotcensor-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+  <string name="gcm_defaultSenderId" translatable="false">117052459987</string>
+  <string name="google_storage_bucket" translatable="false">iotcensor.appspot.com</string>
+  <string name="project_id" translatable="false">iotcensor</string>
+  <string name="google_api_key" translatable="false">AIzaSyBlo-qlhb-G0SVYw62JuHLHs0AkNdA6k3A</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBlo-qlhb-G0SVYw62JuHLHs0AkNdA6k3A</string>
+  <string name="google_app_id" translatable="false">1:117052459987:android:c354b998094703d56d7d26</string>
+  <string name="default_web_client_id" translatable="false">117052459987-dkgul80o6trervk4jp62bggjh9m3trge.apps.googleusercontent.com</string>
+</resources>
